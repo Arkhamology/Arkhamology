@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Arkhamology/Arkhamology** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Arkhamology
 
-Here are some ideas to get you started:
+### Minecraft modding • plugins • random projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I make things I think are useful, interesting, or just fun to mess around with.
+
+<br>
+
+<a href="[https://www.youtube.com/@Arkhamology">
+  <img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/youtube-singular_vector.svg" alt="YouTube">
+</a>
+
+</div>
+
+---
+
+## About
+
+I'm **Arkhamology**.
+
+Most of what I make is related to Minecraft mods, plugins, tools, and random ideas that sounded good enough to actually build.
+
+I'm also on **BeoCraft**, where I spend a probably unreasonable amount of time building stuff (I don't but i always tell that to myself.)
+
+**[BeoCraft Wiki →](https://beocraft.miraheze.org/wiki/Main_Page)**
+
+</div>
