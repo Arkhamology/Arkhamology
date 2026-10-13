@@ -2,8 +2,6 @@
 
 # Arkhamology
 
-### Minecraft modding • plugins • random projects
-
 I make things I think are useful, interesting, or just fun to mess around with.
 
 <br>
