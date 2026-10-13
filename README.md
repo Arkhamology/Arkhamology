@@ -12,8 +12,6 @@ I make things I think are useful, interesting, or just fun to mess around with.
 
 </div>
 
----
-
 ## About
 
 I'm **Arkhamology**.
