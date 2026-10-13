@@ -8,7 +8,7 @@ I make things I think are useful, interesting, or just fun to mess around with.
 
 <br>
 
-<a href="[https://www.youtube.com/@Arkhamology">
+<a href="https://www.youtube.com/@Arkhamology">
   <img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/youtube-singular_vector.svg" alt="YouTube">
 </a>
 
